@@ -1,6 +1,3 @@
-# Faculty-Consultation-log-
-A streamlined web application to schedule, log, and track student-faculty consultations, meetings, and academic advising sessions.
-
 # Faculty Consultation Log
 
 The Faculty Consultation Log is a centralized digital system designed to replace manual logbooks and spreadsheet tracking. It enables students to book appointments and allows faculty members to efficiently document, track, and review academic mentoring, project guidance, and office-hour consultations.
